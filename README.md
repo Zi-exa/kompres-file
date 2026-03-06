@@ -63,28 +63,15 @@ Klik kanan `uninstall_context_menu.bat` → **Run as administrator**
 
 ## 🎨 Screenshot
 
-```
-┌──────────────────────────────────────┐
-│  Kompres 3 File                      │
-│  Pilih beberapa file, kompres dalam  │
-│  satu window                         │
-├──────────────────────────────────────┤
-│  Files (3)                           │
-│  ✅ [VID] video1.mp4     12.3 MB -45%│
-│  ⏳ [IMG] photo1.jpg      5.2 MB     │
-│  ⬜ [VID] video2.mkv     45.1 MB     │
-├──────────────────────────────────────┤
-│  Kualitas Kompresi                   │
-│  ○ Rendah  ● Sedang  ○ Tinggi       │
-├──────────────────────────────────────┤
-│  Mengompres: photo1.jpg (2/3)        │
-│  ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░  60%      │
-│  Total: 1 / 3                        │
-│  ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░  45%      │
-├──────────────────────────────────────┤
-│  [        Mulai Kompres             ]│
-└──────────────────────────────────────┘
-```
+### Context Menu
+Klik kanan file di File Explorer → "Kompres Video" / "Kompres Foto"
+
+![Context Menu](screenshots/context-menu.png)
+
+### GUI Aplikasi
+Tampilan modern dark theme dengan progress bar real-time
+
+![GUI Aplikasi](screenshots/gui-app.png)
 
 ## 📂 Struktur Project
 

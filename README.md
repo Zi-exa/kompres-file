@@ -66,12 +66,12 @@ Klik kanan `uninstall_context_menu.bat` → **Run as administrator**
 ### Context Menu
 Klik kanan file di File Explorer → "Kompres Video" / "Kompres Foto"
 
-![Context Menu](screenshots/screenshot-context-menu.png)
+![Context Menu](screenshots/screenshot-gui.png)
 
 ### GUI Aplikasi
 Tampilan modern dark theme dengan progress bar real-time
 
-![GUI Aplikasi](screenshots/screenshot-gui.png)
+![GUI Aplikasi](screenshots/screenshot-context-menu.png)
 
 ## 📂 Struktur Project
 
